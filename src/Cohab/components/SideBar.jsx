@@ -17,7 +17,7 @@ export const SideBar = ({ drawerWidth = 240 }) => {
       >
         <Toolbar>
           <Typography variant="h6" nowrap="true" component="div">
-            Juancaulloav
+            Cohab App
           </Typography>
         </Toolbar>
         <Divider />
